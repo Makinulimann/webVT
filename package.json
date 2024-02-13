@@ -1,0 +1,14 @@
+{
+  "name": "csssimple",
+  "version": "1.0.0",
+  "dependencies": {
+    "embla-carousel": "^8.0.0-rc17"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
